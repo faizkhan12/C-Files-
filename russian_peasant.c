@@ -1,3 +1,8 @@
+/*
+	Author - @Faiz Khan 
+	Aim - To multipy 2 numbers by Peasant Method
+*/
+
 #include<stdio.h>
 void main()
 {
