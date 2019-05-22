@@ -1,3 +1,13 @@
+/* 
+	Author - @Faiz Khan
+	Output-------------
+	Enter the no. of terms: 4
+	*
+	* *
+	* * *
+	* * * *
+*/
+
 #include<stdio.h>
 void main()
 {
